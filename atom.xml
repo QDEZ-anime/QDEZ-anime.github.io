@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>QDEZ漫研社</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-07-11T13:12:07.820Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Vexpaer</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>公告！快来康我</title>
+    <link href="http://example.com/2021/07/11/%E5%85%AC%E5%91%8A%EF%BC%81%E5%BF%AB%E6%9D%A5%E5%BA%B7%E6%88%91/"/>
+    <id>http://example.com/2021/07/11/%E5%85%AC%E5%91%8A%EF%BC%81%E5%BF%AB%E6%9D%A5%E5%BA%B7%E6%88%91/</id>
+    <published>2021-07-11T12:52:31.000Z</published>
+    <updated>2021-07-11T13:12:07.820Z</updated>
+    
+    <content type="html"><![CDATA[<p>test</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;test&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="公告" scheme="http://example.com/tags/%E5%85%AC%E5%91%8A/"/>
+    
+  </entry>
+  
+</feed>
